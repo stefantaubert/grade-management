@@ -94,13 +94,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Notenverwaltung\Notenverwaltung.csproj">
-      <Project>{0D5BE13D-0B1E-4F00-903C-A21D07FAE635}</Project>
-      <Name>Notenverwaltung</Name>
-    </ProjectReference>
+    <Content Include="NV.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="NV.ico" />
+    <ProjectReference Include="..\Notenverwaltung.Core\Notenverwaltung.Core.csproj">
+      <Project>{0d5be13d-0b1e-4f00-903c-a21d07fae635}</Project>
+      <Name>Notenverwaltung.Core</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
