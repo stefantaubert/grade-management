@@ -1,4 +1,4 @@
-﻿namespace Notenverwaltung
+﻿namespace GradeManagement.Gui
 {
     partial class Kleine_Form1
     {

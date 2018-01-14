@@ -1,4 +1,4 @@
-﻿namespace Notenverwaltung
+﻿namespace GradeManagement.Core
 {
     using System;
     using System.Collections.Generic;

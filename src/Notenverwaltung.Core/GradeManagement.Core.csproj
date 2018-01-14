@@ -8,8 +8,8 @@
     <ProjectGuid>{0D5BE13D-0B1E-4F00-903C-A21D07FAE635}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Notenverwaltung</RootNamespace>
-    <AssemblyName>Notenverwaltung</AssemblyName>
+    <RootNamespace>GradeManagement.Core</RootNamespace>
+    <AssemblyName>GradeManagement.Core</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

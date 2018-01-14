@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Blend for Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notenverwaltung.Gui", "Notenverwaltung.Gui\Notenverwaltung.Gui.csproj", "{28D57A91-29B9-45F1-95CF-8C8AC5DDC9AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeManagement.Gui", "Notenverwaltung.Gui\GradeManagement.Gui.csproj", "{28D57A91-29B9-45F1-95CF-8C8AC5DDC9AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notenverwaltung.Core", "Notenverwaltung.Core\Notenverwaltung.Core.csproj", "{0D5BE13D-0B1E-4F00-903C-A21D07FAE635}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeManagement.Core", "Notenverwaltung.Core\GradeManagement.Core.csproj", "{0D5BE13D-0B1E-4F00-903C-A21D07FAE635}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

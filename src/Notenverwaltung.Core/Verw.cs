@@ -1,4 +1,4 @@
-﻿namespace Notenverwaltung
+﻿namespace GradeManagement.Core
 {
     using System;
     using System.Collections.Generic;
@@ -8,7 +8,7 @@
 
     public class Verw
     {
-        private string Speicherpfad = Path.Combine(Application.StartupPath, Notenverwaltung.Properties.Settings.Default.Dateiname);
+        private string Speicherpfad = Path.Combine(Application.StartupPath, Properties.Settings.Default.Dateiname);
 
         public Verw()
         {

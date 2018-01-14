@@ -1,4 +1,4 @@
-﻿namespace GradeManagement
+﻿namespace GradeManagement.Gui
 {
     partial class Form2
     {

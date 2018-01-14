@@ -5,9 +5,9 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-using Notenverwaltung;
+using GradeManagement.Core;
 
-namespace GradeManagement
+namespace GradeManagement.Gui
 {
     public partial class Form2 : Form
     {
@@ -82,7 +82,7 @@ namespace GradeManagement
                 {
                     ToolStripMenuItem ti = new ToolStripMenuItem();
                     ti.Tag = Verwaltg.IndexFach = i;
-                    ti.Text = Notensammlung.ConvertToString(Verwaltg.FachSchnitt, DecimalsTool, false) + " :: " + Verwaltg.AktuellesFach.Name;
+                    ti.Text = GradeManagement.Core.Notensammlung.ConvertToString(Verwaltg.FachSchnitt, DecimalsTool, false) + " :: " + Verwaltg.AktuellesFach.Name;
                     contextMenuFächer.Items.Add(ti);
                 }
 

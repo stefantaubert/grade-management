@@ -8,7 +8,7 @@
     <ProjectGuid>{28D57A91-29B9-45F1-95CF-8C8AC5DDC9AD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GradeManagement</RootNamespace>
+    <RootNamespace>GradeManagement.Gui</RootNamespace>
     <AssemblyName>grade-management</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -98,9 +98,9 @@
     <Content Include="NV.ico" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Notenverwaltung.Core\Notenverwaltung.Core.csproj">
+    <ProjectReference Include="..\Notenverwaltung.Core\GradeManagement.Core.csproj">
       <Project>{0d5be13d-0b1e-4f00-903c-a21d07fae635}</Project>
-      <Name>Notenverwaltung.Core</Name>
+      <Name>GradeManagement.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

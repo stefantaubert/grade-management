@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace GradeManagement
+namespace GradeManagement.Gui
 {
     static class Program
     {

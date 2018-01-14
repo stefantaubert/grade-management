@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Notenverwaltung
+namespace GradeManagement.Gui
 {
     public partial class Kleine_Form1 : Form
     {
