@@ -1,4 +1,4 @@
-﻿namespace NeueNotenverwaltung
+﻿namespace GradeManagement
 {
     partial class Form2
     {

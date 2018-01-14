@@ -3,3 +3,5 @@ bin/
 obj/
 Debug/
 Release/
+/src/.vs/Notenverwaltung Abitur/v15/sqlite3/storage.ide
+/src/.vs/Notenverwaltung/v15/sqlite3/storage.ide

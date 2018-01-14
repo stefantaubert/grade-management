@@ -7,7 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using Notenverwaltung;
 
-namespace NeueNotenverwaltung
+namespace GradeManagement
 {
     public partial class Form2 : Form
     {

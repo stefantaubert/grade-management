@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace NeueNotenverwaltung
+namespace GradeManagement
 {
     public partial class FormStatistik : Form
     {

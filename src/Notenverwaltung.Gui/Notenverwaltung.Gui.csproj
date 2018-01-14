@@ -8,8 +8,8 @@
     <ProjectGuid>{28D57A91-29B9-45F1-95CF-8C8AC5DDC9AD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NeueNotenverwaltung</RootNamespace>
-    <AssemblyName>NeueNotenverwaltung</AssemblyName>
+    <RootNamespace>GradeManagement</RootNamespace>
+    <AssemblyName>grade-management</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -81,6 +81,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="app.config" />
     <None Include="Properties\Settings.settings">
