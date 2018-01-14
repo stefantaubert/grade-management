@@ -14,17 +14,17 @@ Program for managing grades for A levels in germany.
 
 You can add subjects and choose the grading (50:50 or double value):
 <p align="center">
-  <img src="/screenshots/edit_lecture.png">
+  <img src="/images/edit_lecture.png">
 </p>
 
 For each subject you can add marks:
 <p align="center">
-  <img src="/screenshots/main.png">
+  <img src="/images/main.png">
 </p>
 
 You can get an overview of your current marks and average marks:
 <p align="center">
-  <img src="/screenshots/stats.png">
+  <img src="/images/stats.png">
 </p>
 
 ## Language
